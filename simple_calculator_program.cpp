@@ -1,4 +1,4 @@
-// simple calculator program
+// simple addition calculator program
 
 #include <iostream>
 #include <string>
