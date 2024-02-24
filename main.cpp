@@ -9,7 +9,7 @@ string name;
 
 cout << "Enter your full name: ";
 
-cin >> name;
+getline (cin, name);
 
 cout << "Thank you for checking out my first program, " << name <<". " "You are amazing!";
 
